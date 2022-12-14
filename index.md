@@ -3,13 +3,13 @@
 This is my home page! My name is Jordan Fernandez and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Engineering 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/jf-894.
+My GitHub page is [jf-894](http://github.com/jf-894).
 
 ### CPSC 120
 
-* Lab 3
+*  Lab 3
 
-    Lab 3, part 3 was my favorite because I coded my first game.The game was a two-player number guessing game. I spent hours coding and debugging. To the point of giving up but managed to make it work.
+    Lab 3, part 3 was my favorite because I coded my first game.The game was a two-player number guessing game. It was the first time using if-loops.I spent hours coding and debugging. To the point of giving up but managed to make it work.
 
 * Lab 8
 
