@@ -9,7 +9,7 @@ My GitHub page is [jf-894](http://github.com/jf-894).
 
 *  Lab 3
 
-    Lab 3, part 3 was my favorite because I coded my first game.The game was a two-player number guessing game. It was the first time using if-loops.I spent hours coding and debugging. To the point of giving up but managed to make it work.
+    Lab 3, part 3 was my favorite because I coded my first game. The game was a two-player number guessing game. It was the first time using if-loops.I spent hours coding and debugging. To the point of giving up but managed to make it work.
 
 * Lab 8
 
