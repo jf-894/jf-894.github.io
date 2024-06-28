@@ -1,6 +1,6 @@
 ### Welcome!!
 
-This is my home page! My name is Jordan Fernandez and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Engineering 
+This is my home page! My name is Jordan Fernandez, and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Engineering 
 ## Computer Science Projects
 
 My GitHub page is [jf-894](http://github.com/jf-894).
@@ -9,13 +9,9 @@ My GitHub page is [jf-894](http://github.com/jf-894).
 
 *  [Web Browser Linked List Implementation](https://github.com/cpsc-pilot-fall-2022/cpsc-120-lab-03-jf-894/tree/master/part-3)
 
-   Designed and implemented linked list operations for a web browser. Developed a Browser class as a doubly linked list to manage tabs, including switching, bookmarking, and memory calculations. Created a custom Tab class representing browser tabs with properties (url, name, memory) and implemented essential functions.
+   Designed and implemented linked list operations for a web browser. Developed a Browser class as a doubly linked list to manage tabs, including switching, bookmarking, and memory calculations. Created a custom Tab class representing browser tabs with properties (URL, Name, Memory) and implemented essential functions.
 
-*  [Among Us Character Implementation](https://github.com/cpsc-pilot-fall-2022cpsc-120-lab-08-jordan-yadeli-1/tree/main/part-2)
+*  [Among Us Character Implementation](https://github.com/CSUF-CPSC121L-2023S/lab13-jf-894/tree/main/prob02)
 
    Implement characters from the popular game “Among Us” using object-oriented programming concepts. Developed a Crewmate-derived class with crewmate-specific functionality (tasks and life status).
 Designed an Impostor-derived class capable of eliminating crewmates.
-   
-* [Mealy and Moore State](https://github.com/cpsc-pilot-fall-2022/cpsc-120-lab-10-jordan-emiliano/tree/main/part-2)
-
-    This project involves designing and implementing complex state machines and counters using VHDL, including a One-Hot Up Counter and a 10-State Up/Down Counter. The focus is on understanding and applying concepts of state machine design and counter operations.
