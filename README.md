@@ -16,18 +16,18 @@ My GitHub page is [jf-894](http://github.com/jf-894).
 * FPGA Boards: Nexys A7 100t
 
 
-### Hardware Description Language
+## Hardware Description Language Project
  * UART & FIR Filter
 
     Co-Design & Program a Verilog UART & FIR Filter
 
-### Embedded Course Project (Mix of Hardware & Software)
+## Embedded Course Project (Mix of Hardware & Software)
  *
  *
  
 
 
-### Computer Science Course Project
+## Computer Science Course Project
 
 *  [Web Browser Linked List Implementation](https://github.com/jf-894/Web-Browser/tree/main)
 
