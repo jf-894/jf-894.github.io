@@ -2,6 +2,9 @@
 
 This is my home page! My name is Jordan Fernandez, and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Engineering 
 
+
+My GitHub page is [jf-894](http://github.com/jf-894).
+
 ## Skills
 * Programming Languages: Python, C/C++, Verilog, VHDL
 * IDE: Visual Studio Code, Vivado
@@ -9,7 +12,8 @@ This is my home page! My name is Jordan Fernandez, and I am a student at [Cal St
 * Microcontrollers: ESP32, STM32, Arduino
 
 
-My GitHub page is [jf-894](http://github.com/jf-894).
+### Computer Engineering Course Project
+
 
 ### Computer Science Course Project
 
