@@ -10,10 +10,12 @@ My GitHub page is [jf-894](http://github.com/jf-894).
 * IDE: Visual Studio Code, Vivado
 * Protocols: I2S, I2C, SPI, UART
 * Microcontrollers: ESP32, STM32, Arduino
+* FPGA Boards: Nexys A7 100t
 
 
 ### Hardware Description Language
  * UART & FIR Filter
+   Co-Design & Program a Verilog UART & FIR Filter
 
 ### Embedded Course Project (Mix of Hardware & Software)
  *
