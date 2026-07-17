@@ -1,6 +1,6 @@
 ### Welcome!!
 
-This is my home page! My name is Jordan Fernandez, and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Engineering 
+This is my home page! My name is Jordan Fernandez, and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Engineering. 
 
 This repository showcases my most significant and complex academic projects developed throughout my university career.
 
