@@ -3,7 +3,7 @@
 This is my home page! My name is Jordan Fernandez, and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Engineering 
 
 ## Skills
-Programming Languages: Python, C/C++, Verilog, VHDL
+*Programming Languages: Python, C/C++, Verilog, VHDL
 IDE: Visual Studio Code, Vivado
 Protocols: I2S, I2C, SPI, UART
 Microcontrollers: ESP32, STM32, Arduino
