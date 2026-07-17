@@ -12,9 +12,10 @@ My GitHub page is [jf-894](http://github.com/jf-894).
 * Microcontrollers: ESP32, STM32, Arduino
 
 
-### 
+### Hardware Description Language
+ * UART & FIR Filter
 
-### Computer Engineering Course Project (Mix of Hardware & Software)
+### Embedded Course Project (Mix of Hardware & Software)
  *
  *
  
