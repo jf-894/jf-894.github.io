@@ -1,2 +1,2 @@
-You'll find two of my most satisfactory projects in this repository, which I learned from lectures and implemented into my projects. 
-More will come soon as I continue to learn throughout my four years at California State University, Fullerton.
+This repository showcases my most significant and complex academic projects developed throughout my university career.
+More will come soon as I continue to learn throughout my time at California State University, Fullerton.
