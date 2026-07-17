@@ -12,7 +12,12 @@ My GitHub page is [jf-894](http://github.com/jf-894).
 * Microcontrollers: ESP32, STM32, Arduino
 
 
-### Computer Engineering Course Project
+### 
+
+### Computer Engineering Course Project (Mix of Hardware & Software)
+ *
+ *
+ 
 
 
 ### Computer Science Course Project
