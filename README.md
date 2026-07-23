@@ -9,7 +9,7 @@ My GitHub page is [jf-894](http://github.com/jf-894).
 
 ## Skills
 * Programming Languages: Python, C/C++, Verilog, VHDL
-* IDE: Visual Studio Code, Vivado
+* IDE: Visual Studio Code, Vivado, PyCharm
 * Protocols: I2S, I2C, SPI, UART
 * Microcontrollers: ESP32, STM32, Arduino
 * FPGA Boards: Nexys A7 100t
