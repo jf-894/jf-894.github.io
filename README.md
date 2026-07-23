@@ -16,7 +16,7 @@ My GitHub page is [jf-894](http://github.com/jf-894).
 
 
 ## Hardware Description Language Projects
- * Research Project - UART & FIR Filter (Coming Soon)
+ * Research Project - UART & FIR Filter (In Progress)
 
     Co-Design & Program a Verilog UART & FIR Filter
 
