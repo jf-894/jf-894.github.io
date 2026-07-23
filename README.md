@@ -21,7 +21,7 @@ My GitHub page is [jf-894](http://github.com/jf-894).
     Co-Design & Program a Verilog UART & FIR Filter
 
 ## Embedded Course Projects (Mix of Hardware & Software)
- * Digital Piano using a Digital-to-Analog Converter (DAC)
+ * [Digital Piano using a Digital-to-Analog Converter (DAC)](https://github.com/jf-894/Digital-Piano-using-a-Digital-to-Analog-Converter)
  *
  
 
