@@ -12,7 +12,7 @@ My GitHub page is [jf-894](http://github.com/jf-894).
 * IDE: Visual Studio Code, Vivado, PyCharm
 * Protocols: I2S, I2C, SPI, UART
 * Microcontrollers: ESP32, STM32, Arduino
-* FPGA Boards: Nexys A7 100t
+* FPGA Boards: Nexys A7 100T
 
 
 ## Hardware Description Language Projects
