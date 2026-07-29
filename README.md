@@ -30,5 +30,4 @@ My GitHub page is [jf-894](http://github.com/jf-894).
 
 *  [Web Browser Linked List Implementation](https://github.com/jf-894/Web-Browser/tree/main)
 
-   Designed and implemented linked list operations for a web browser. Developed a Browser class as a doubly linked list to manage tabs, including switching, bookmarking, and memory calculations. Created a custom Tab class representing browser tabs with properties (URL, Name, Memory) and implemented essential functions.
 
