@@ -22,7 +22,7 @@ My GitHub page is [jf-894](http://github.com/jf-894).
 
 ## Embedded Course Projects (Mix of Hardware & Software)
  * [Digital Piano using a Digital-to-Analog Converter (DAC)](https://github.com/jf-894/Digital-Piano-using-a-Digital-to-Analog-Converter)
- *
+ * [Traffic Light Controller](https://github.com/jf-894/Embedded---Traffic-Light-Controller)
  
 
 
